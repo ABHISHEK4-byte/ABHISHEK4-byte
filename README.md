@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishek B
 
-<!--
-**ABHISHEK4-byte/ABHISHEK4-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer
+💻 Passionate about Web Development & Projects
+🎮 Building cool stuff like **Titanium War (Gaming Website)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* 💻 C, Python
+* 🌐 HTML, CSS, JavaScript
+* ⚙️ Git & GitHub
+
+---
+
+## 📈 Currently Learning
+
+* Full Stack Development
+* Backend & APIs
+
+---
+
+## 🔥 Projects
+
+* 🎮 Titanium War (Online Game Website)
+* 🛒 E-commerce Website
+
+---
+
+## 📫 Connect with me
+
+* GitHub: https://github.com/ABHISHEK4-byte
+
+⭐ *“Code. Build. Grow.”*

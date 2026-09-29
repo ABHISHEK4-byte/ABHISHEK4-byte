@@ -1,35 +1,40 @@
-# 👋 Hi, I'm Abhishek B
+👨‍💻 About Me
 
-🚀 Aspiring Software Developer
-💻 Passionate about Web Development & Projects
-🎮 Building cool stuff like **Titanium War (Gaming Website)**
+🎓 CSE Student
+💻 Full-Stack Development
+🌐 Web Applications
+🚀 Building real-world projects
+📚 Currently learning Backend & APIs
 
----
+🛠️ Tech Stack
 
-## 🛠️ Skills
+Languages
+C • Python • JavaScript
 
-* 💻 C, Python
-* 🌐 HTML, CSS, JavaScript
-* ⚙️ Git & GitHub
+Frontend
+HTML • CSS • JavaScript • React
 
----
+Backend
+Node.js • Express.js • REST APIs
 
-## 📈 Currently Learning
+Database
+MongoDB • Firebase
 
-* Full Stack Development
-* Backend & APIs
+Tools
+Git • GitHub • VS Code • Docker
 
----
+🚀 Featured Projects
 
-## 🔥 Projects
+🎮 Titanium War
+Online gaming website
 
-* 🎮 Titanium War (Online Game Website)
-* 🛒 E-commerce Website
+🤖 APOLLO 2.1
+AI assistant / full-stack project
 
----
+🛒 E-Commerce Website
+Full-stack e-commerce application
 
-## 📫 Connect with me
+📊 GitHub Stats
 
-* GitHub: https://github.com/ABHISHEK4-byte
-
-⭐ *“Code. Build. Grow.”*
+🔗 Connect With Me
+LinkedIn • GitHub • Email

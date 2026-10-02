@@ -1,24 +1,11 @@
 # 👋 Hi, I'm Abhishek B
 
-### 🚀 Computer Science Engineering Student | Full-Stack Developer
+### 🚀 Full-Stack Developer | Backend & DevOps Enthusiast
 
-I'm a Computer Science Engineering student passionate about building
-web applications, backend systems, and practical software projects.
+Computer Science Engineering student passionate about building
+full-stack applications, backend systems, and AI-powered projects.
 
-I enjoy turning ideas into working products and continuously improving
-my skills in full-stack development, APIs, databases, DevOps, and
-software engineering.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science Engineering Student
-- 💻 Interested in Full-Stack & Backend Development
-- 🚀 Building practical software projects
-- 🐳 Exploring Docker & DevOps
-- 🌐 Interested in APIs, databases and cloud deployment
-- 📚 Currently strengthening DSA, backend development and system fundamentals
+Currently exploring Docker, REST APIs, databases, and cloud deployment.
 
 ---
 

@@ -75,7 +75,7 @@ An interactive gaming website built as a web-based gaming project.
 A full-stack AI assistant project integrating a modern frontend,
 backend APIs, authentication and AI capabilities.
 
-**Focus:** React • Node.js • APIs • Firebase • AI Integration
+**Focus:** React • Node.js • APIs  • AI Integration
 
 ---
 

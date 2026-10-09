@@ -62,14 +62,6 @@ Currently exploring Docker, REST APIs, databases, and cloud deployment.
 
 # 🚀 Featured Projects
 
-### 🎮 Titanium War
-
-An interactive gaming website built as a web-based gaming project.
-
-**Focus:** Frontend Development • JavaScript • Interactive Web Experience
-
----
-
 ### 🤖 APOLLO 2.1
 
 A full-stack AI assistant project integrating a modern frontend,
